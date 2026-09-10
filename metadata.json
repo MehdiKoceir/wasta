@@ -1,0 +1,7 @@
+{
+  "name": "WASTA?",
+  "description": "Find the right service, not the right person. AI service triage and verified professional matching platform for Algeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
